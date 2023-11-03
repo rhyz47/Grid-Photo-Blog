@@ -1,0 +1,19 @@
+body{
+    background-color: #023047;
+}
+nav {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5em;
+    color: #8ecae6;
+    text-transform: uppercase;
+    border-bottom: 2px solid #219ebc;
+    width: 29%;
+    margin-left:calc(12%/6);
+    padding: 20px 0;
+}
+img {
+    height: 500px;
+    width: 29%;
+    margin: calc(12%/6);
+    
+}
